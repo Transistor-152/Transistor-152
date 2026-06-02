@@ -1,3 +1,6 @@
+
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJpbzB0OTlkc2s2YjVhZzR4YWtneGg5MzEwZzAwZjZ6Nms1a2sxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif)
+
 # 💫 About Me:
 I am a beginner programmer in robotics and a lyceum student.<br>I develop skills in cybersecurity and robotics.<br>In this profile, I will publish my educational and personal projects.
 
